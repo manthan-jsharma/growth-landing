@@ -13,11 +13,11 @@ const outer = {
     "Holon-Ai HAckathon",
     "AI-Agent For Digital Meetings",
   ],
-  desciption: `Office workers in Hong Kong often attend fast-paced, multilingual meetings (English,
-    Mandarin, Cantonese). Manually taking notes is inefficient and stressful, especially for
-    less tech-savvy users..`,
+  desciption: `🌱 I’m learning Python and Django along with keen intrest in frontend technologies such as React and Javascript, Current aim is to publish my own animation library on NPM.
+  👯 I’m also looking to collaborate on open source/commercial projects
+  💬 Ask me about Software Engineering,Anime,Anthropology and Calisthenics`,
   button: {
-    label: "Landing-Page-Preview!",
+    label: "Portfolio-Preview!",
     onClick: () => openLink("https://portfolio-1-mu-lyart.vercel.app/"),
   },
 };

@@ -9,7 +9,7 @@ const header = {
     { title: "Opinions", id: "reviews" },
   ],
   rightBtn: {
-    label: "Langing-Page | Preview",
+    label: "Portfolio | Preview",
     onClick: () => openLink("https://portfolio-1-mu-lyart.vercel.app/"),
   },
   logo: {

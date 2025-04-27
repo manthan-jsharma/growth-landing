@@ -41,7 +41,7 @@ const mySelf = {
     "Svelte",
     "Strapi",
   ],
-  image: "/assets/Project.png",
+  image: "/assets/Portfolio.png",
 };
 
 export default mySelf;
