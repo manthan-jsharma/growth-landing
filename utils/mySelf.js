@@ -2,7 +2,7 @@ const mySelf = {
   heading: "Project-Description",
   paragraphs: [
     `
-        Hello! My name is Manthan Sharma, This is a landing Page for introduction to my PortFolio.`,
+        Hello! My name is Manthan Sharma, This is a landing Page for introduction to my PortFolio, Click on the Portfolio-Preview Button in to View my full Portfolio.`,
     `
     i have been meticulously approaching advancing technologies accordingly to my equally proliferated skills and emerging intrest.`,
     `
